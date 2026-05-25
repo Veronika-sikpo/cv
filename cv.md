@@ -5,6 +5,7 @@
 ### Contact information
 - Phone: +375 29 917-55-32
 - E-mail: nyashatsepova@gmail.com
+- Instagram: Princess
 - Telegram: @Nyasha
 - GitHub: [Veronika-sikpo](https://github.com/Veronika-sikpo)
 
