@@ -17,6 +17,7 @@ I am eager to learn and understand new technologies.
 - C++ (basics: loops, functions, arrays)
 - Git, GitHub
 - VS Code
+- Adobe Photoshop (basic retouching)
 
 ### Code Example (C++)
 ```cpp
